@@ -11,7 +11,7 @@ Karl W. Broman & Kara H. Woo (2018), [Data Organization in Spreadsheets](https:/
 - [Why do we care about tidying data?](https://youtu.be/9dIKnQHrawk)
 - [Identifying messy elements of a dataset](https://youtu.be/9mz0BR1zqsY)
   - The dataset discussed in this video is from: Ernest, Morgan; Brown, James; Valone, Thomas; White, Ethan P. (2017): Portal Project Teaching Database. figshare. https://doi.org/10.6084/m9.figshare.1. Discussion points were derived from: Peter R. Hoyt, Christie Bahlai, Tracy K. Teal (Eds.), Erin Alison Becker, Aleksandra Pawlik, Peter Hoyt, Francois Michonneau, Christie Bahlai, Toby Reiter, et al. (2019, July 5). datacarpentry/spreadsheet-ecology-lesson: Data Carpentry: Data Organization in Spreadsheets for Ecologists, June 2019 (Version v2019.06.2). Zenodo. http://doi.org/10.5281/zenodo.3269869. Used under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Material presented in this module is not endorsed by the licensors.
-- [Coding demo: working with tidyr, dplyr, and ggplot2]()
+- [Coding demo: working with tidyr, dplyr, and ggplot2](https://youtu.be/PDQqAJ_OH2Q)
 
 **Part 4: Complete the homework**
 
